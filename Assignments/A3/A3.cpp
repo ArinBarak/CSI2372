@@ -1,4 +1,4 @@
-//Assignment 3 (used for A3.cpp)
+//Assignment 3 (used for A3_2.cpp)
 
 #include <iostream>
 #include <list>
